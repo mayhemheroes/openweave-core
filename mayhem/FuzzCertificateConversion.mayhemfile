@@ -1,0 +1,4 @@
+project: PROJECT
+target: FuzzCertificateConversion
+cmds:
+- cmd: /out/FuzzCertificateConversion
